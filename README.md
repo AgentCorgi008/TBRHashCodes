@@ -11,7 +11,3 @@ Utility tool for generating and managing hash for sensitive files to access code
 
 - Python
 - hashlib
-
-## ✨ Purpose
-
-Created as an internal development tool for managing protected game content and access codes.
