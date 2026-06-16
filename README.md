@@ -6,8 +6,3 @@ Utility tool for generating and managing hash for sensitive files to access code
 
 - Hash generation
 - Development workflow support
-
-## 🛠 Technologies
-
-- Python
-- hashlib
